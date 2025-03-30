@@ -15,5 +15,8 @@
     "url": "https://github.com/francescodist/odt-scraper/issues"
   },
   "homepage": "https://github.com/francescodist/odt-scraper#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "cypress": "^14.2.1"
+  }
 }
